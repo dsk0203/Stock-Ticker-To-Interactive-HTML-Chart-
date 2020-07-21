@@ -3,4 +3,4 @@ Search any Ticker, or import your own data and an interactive chart populates in
 
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/dsk0203/Stock-Ticker-To-Interactive-HTML-Chart-/blob/master/Pull_One.jpg)
