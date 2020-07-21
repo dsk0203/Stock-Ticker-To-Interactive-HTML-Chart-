@@ -1,4 +1,3 @@
-# Stock-Ticker-To-Interactive-HTML-Chart-
 <p align="center">
   Search any Ticker, or import your own data and an interactive chart populates in HTML for quick embedding.
 </p>
@@ -42,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/dsk0203/Stock-Ticker-To-Interactive-HTML-Chart-/blob/master/Output_Two_2.jpg" />
+  <img src="https://github.com/dsk0203/Stock-Ticker-To-Interactive-HTML-Chart-/blob/master/Output_Two_2.jpg" />   
 </p>
 
 
