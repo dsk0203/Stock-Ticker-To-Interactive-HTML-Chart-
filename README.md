@@ -44,5 +44,6 @@
   <img src="https://github.com/dsk0203/Stock-Ticker-To-Interactive-HTML-Chart-/blob/master/Output_Two_2.jpg" />   
 </p>
 
-
-
+<p align="center">
+  Download: https://www.dropbox.com/s/bz4v6dbk00ukgks/front_end.exe?dl=0
+</p>
