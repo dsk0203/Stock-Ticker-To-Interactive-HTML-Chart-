@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  Interactive chart pushed directly to filepath
+  Interactive chart pushed directly to filepath from data from the .csv
 </p>
 
 <p align="center">
