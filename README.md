@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  Automatically pull from any ticker.
+  Automatically pull from any ticker, or select the Graph CSV button to graph your own data
 </p>
 
 <p align="center">
